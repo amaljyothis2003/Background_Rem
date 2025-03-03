@@ -3,3 +3,4 @@ Pillow
 streamlit
 numba
 numpy
+onnxruntime
